@@ -13,7 +13,7 @@ Youtube Tutorial: https://www.youtube.com/watch?v=OpSU0VgfkL4&ab_channel=LearnWi
 </p>
 link to repo:  https://github.com/KwanJunEr/spring_security_learn/tree/main/jwtsecuritylearn
 
-<h1>Spring Security JWT - Access and Refresh Token</h1>
+<h2>Spring Security JWT - Access and Refresh Token</h2>
 <br>
 Repo Link: https://github.com/KwanJunEr/spring_security_learn/tree/main/jwtsecurity_refresh_access_token
 
