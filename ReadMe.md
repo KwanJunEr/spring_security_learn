@@ -17,3 +17,6 @@ link to repo:  https://github.com/KwanJunEr/spring_security_learn/tree/main/jwts
 <br>
 Repo Link: https://github.com/KwanJunEr/spring_security_learn/tree/main/jwtsecurity_refresh_access_token
 
+<h1>Spring Security (Udemy Course)</h1>
+<p>Notes Link: https://docs.google.com/document/d/1LBNGGmmNKeY4XbBhj0J-2uZcxsM_YTL963BdX0jDcxs/edit?tab=t.0</p>
+
